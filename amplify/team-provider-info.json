@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-airecipe-dev-94350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::664418979686:role/amplify-airecipe-dev-94350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::664418979686:role/amplify-airecipe-dev-94350-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-airecipe-dev-94350-deployment",
+      "UnauthRoleName": "amplify-airecipe-dev-94350-unauthRole",
+      "StackName": "amplify-airecipe-dev-94350",
+      "StackId": "arn:aws:cloudformation:us-east-1:664418979686:stack/amplify-airecipe-dev-94350/133b3fe0-e7bd-11ef-8fb5-0afff406bf47",
+      "AmplifyAppId": "d3nzf06wxti2v8"
+    }
+  }
+}
